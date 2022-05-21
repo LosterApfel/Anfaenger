@@ -38,31 +38,8 @@ namespace Projekt_Nr._1
                     return (int)Ergebnis;
 
                 default:
-                    Console.WriteLine("Geben sie bitte +, -, *, /, ein");
-                    Antwort = Console.ReadLine();
-                    
-                    
-
-                    switch (Console.ReadLine())
-                    {
-                        case "+":
-                            Console.WriteLine(Ergebnis = Zahl1 + Zahl2);
-                            return (int)Ergebnis;
-                        case "-":
-                            Console.WriteLine(Ergebnis = Zahl1 - Zahl2);
-                            return (int)Ergebnis;
-
-                        case "*":
-                            Console.WriteLine(Ergebnis = Zahl1 * Zahl2);
-                            return (int)Ergebnis;
-
-                        case "/":
-                            Console.WriteLine(Ergebnis = Zahl1 / Zahl2);
-                            return (int)Ergebnis;
-
-                        default:
-                            Console.WriteLine("Geben sie bitte +, -, *, /, ein");
-                            break;
+                       Console.WriteLine("Geben sie bitte +, -, *, /, ein");
+                       break;
 
 
                     }
