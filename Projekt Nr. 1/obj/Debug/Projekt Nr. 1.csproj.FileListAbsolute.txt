@@ -1,0 +1,7 @@
+C:\Users\LucaEßlinger\Desktop\GitHub\Anfaenger\Projekt Nr. 1\bin\Debug\Projekt Nr. 1.exe.config
+C:\Users\LucaEßlinger\Desktop\GitHub\Anfaenger\Projekt Nr. 1\bin\Debug\Projekt Nr. 1.exe
+C:\Users\LucaEßlinger\Desktop\GitHub\Anfaenger\Projekt Nr. 1\bin\Debug\Projekt Nr. 1.pdb
+C:\Users\LucaEßlinger\Desktop\GitHub\Anfaenger\Projekt Nr. 1\obj\Debug\Projekt Nr. 1.csprojAssemblyReference.cache
+C:\Users\LucaEßlinger\Desktop\GitHub\Anfaenger\Projekt Nr. 1\obj\Debug\Projekt Nr. 1.csproj.CoreCompileInputs.cache
+C:\Users\LucaEßlinger\Desktop\GitHub\Anfaenger\Projekt Nr. 1\obj\Debug\Projekt Nr. 1.exe
+C:\Users\LucaEßlinger\Desktop\GitHub\Anfaenger\Projekt Nr. 1\obj\Debug\Projekt Nr. 1.pdb
