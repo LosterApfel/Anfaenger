@@ -11,11 +11,11 @@ namespace Projekt_Nr._1
         static void Main()
         {
             Console.WriteLine("Geben Sie bitte eine Zahl ein");
-            int Zahl1;
-            Zahl1 = int.Parse(Console.ReadLine());
+            double Zahl1;
+            Zahl1 = double.Parse(Console.ReadLine());
             Console.WriteLine("Bitte geben sie eine Zeite Zahl ein");
-            int Zahl2;
-            Zahl2 = int.Parse(Console.ReadLine());
+            double Zahl2;
+            Zahl2 = double.Parse(Console.ReadLine());
             Console.WriteLine("Geben sie bitte +, -, *, /, ein");
             switch (Console.ReadLine())
             {
