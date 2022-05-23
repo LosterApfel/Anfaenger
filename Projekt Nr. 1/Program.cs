@@ -10,32 +10,35 @@ namespace Projekt_Nr._1
     {
         static void Main()
         {
-            Console.WriteLine("Geben Sie bitte eine Zahl ein");
-            double Zahl1;
-            Zahl1 = double.Parse(Console.ReadLine());
-            Console.WriteLine("Bitte geben sie eine Zeite Zahl ein");
-            double Zahl2;
-            Zahl2 = double.Parse(Console.ReadLine());
-            Console.WriteLine("Geben sie bitte +, -, *, /, ein");
             double Ergebnis;
             string Eingabe;
+
             do
             {
+                Console.WriteLine("Geben Sie bitte eine Zahl ein");
+                double Zahl1;
+                Zahl1 = double.Parse(Console.ReadLine());
+                Console.WriteLine("Bitte geben sie eine Zeite Zahl ein");
+                double Zahl2;
+                Zahl2 = double.Parse(Console.ReadLine());
+                Console.WriteLine("Geben sie bitte +, -, *, /, ein");
+              
+
                 switch (Console.ReadLine())
                 {
                     case "+":
-                        Console.WriteLine(Ergebnis = Zahl1 + Zahl2);
+                        Console.WriteLine("Das ist dein Ergebnis =" + (Ergebnis = Zahl1 + Zahl2));
                         break;
                     case "-":
-                        Console.WriteLine(Ergebnis = Zahl1 - Zahl2);
+                        Console.WriteLine("Das ist dein Ergebnis =" + (Ergebnis = Zahl1 - Zahl2));
                         break;
 
                     case "*":
-                        Console.WriteLine(Ergebnis = Zahl1 * Zahl2);
+                        Console.WriteLine("Das ist dein Ergebnis =" + (Ergebnis = Zahl1 * Zahl2));
                         break;
 
                     case "/":
-                        Console.WriteLine(Ergebnis = Zahl1 / Zahl2);
+                        Console.WriteLine("Das ist dein Ergebnis =" + (Ergebnis = Zahl1 / Zahl2));
                         break;
 
                     default:
