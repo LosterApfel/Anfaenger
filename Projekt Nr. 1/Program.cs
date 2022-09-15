@@ -22,7 +22,7 @@ namespace Projekt_Nr._1
                 double Zahl2;
                 Zahl2 = double.Parse(Console.ReadLine());
                 Console.WriteLine("Geben sie bitte +, -, *, /, ein");
-              
+
 
                 switch (Console.ReadLine())
                 {
@@ -51,13 +51,13 @@ namespace Projekt_Nr._1
                 Eingabe = Console.ReadLine();
             } while (Eingabe == "Ja");
 
-            
-            
+
+
 
 
             Console.ReadKey();
         }
-        
+    }   
      
-  }
 }
+
